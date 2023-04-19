@@ -1,5 +1,5 @@
 
-# Mini-Dictionary version 1
+# Mini-Dictionary version 1.0.1
 
 This Weekend Mini Project in the Journey of Javascript
 
