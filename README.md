@@ -21,15 +21,6 @@ This Weekend Mini Project in the Journey of Javascript
 
 ## Installation and Setup: 
 
-Usage and Examples: Explain how users can effectively use your project. Provide examples, code snippets, or screenshots to showcase its usage.
-
-______________
-## Technology Used 
-
- - HTML 5 
- -  CSS 3 
- - Bootstrap 5 
- - Vanilla JavaScript
 
 
 > Its a Weekend Project Mini Project
